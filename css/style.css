@@ -256,6 +256,9 @@ header {
   background-position: center;
   text-align: center;
 }
+.about-us-hero .last-item {
+  padding-bottom: 1rem;
+}
 .about-us-hero .col-sm-12 p {
   padding-bottom: 40px;
 }
@@ -450,6 +453,8 @@ header {
 }
 
 .achievements {
+  position: relative;
+  overflow: hidden;
   color: #000;
 }
 .achievements h2 {
@@ -466,6 +471,8 @@ header {
   text-align: center;
 }
 .achievements .achievements-box {
+  position: relative;
+  overflow: hidden;
   padding-top: 20px;
   padding-bottom: 10px;
 }
